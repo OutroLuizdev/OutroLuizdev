@@ -12,7 +12,6 @@ Atualmente estou cursando **Sistemas da Informação** (4º semestre). Tenho cur
 - 
 ## Formação Acadêmica
 
-### UNINOVE
 **Bacharelado em Gestão de Sistemas de Informação**  
 Janeiro de 2023 - Dezembro de 2027
 

@@ -1,8 +1,8 @@
 # Luiz Oliveira
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luiz%20Oliveira-blue?logo=linkedin)](https://www.linkedin.com/in/luiz-oliveira)
-[![GitHub](https://img.shields.io/badge/GitHub-LuizOliveira-black?logo=github)](https://github.com/LuizOliveira)
-[![Figma](https://img.shields.io/badge/Figma-Luiz%20Oliveira-pink?logo=figma)](https://www.figma.com/@luiz-oliveira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luiz%20Oliveira-blue?logo=linkedin)](https://www.linkedin.com/in/luizoliveiradev/)
+[![GitHub](https://img.shields.io/badge/GitHub-LuizOliveira-black?logo=github)](https://github.com/OutroLuizdev/OutroLuizdev)
+
 
 **Localização:** Mairinque, São Paulo, Brasil
 

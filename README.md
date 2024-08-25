@@ -17,8 +17,12 @@ Janeiro de 2023 - Dezembro de 2027
 
 ---
 
-## Ferramentas que uso
-![IntelliJ](https://img.icons8.com/color/48/000000/intellij-idea.png) ![VS Code](https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png) ![Excel](https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png) 
+![IntelliJ](https://img.icons8.com/color/48/000000/intellij-idea.png) 
+![VS Code](https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png) 
+![Excel](https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png) 
+![Notion](https://img.icons8.com/color/48/000000/notion.png) 
+![Trello](https://img.icons8.com/color/48/000000/trello.png) 
+![Postman](https://img.icons8.com/dusk/48/000000/postman-api.png)
 
 
 

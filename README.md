@@ -26,4 +26,4 @@ Janeiro de 2023 - Dezembro de 2027
 
 
 
-Vamos conectar e trocar conhecimento!
+E aí, Bora conversar?!
